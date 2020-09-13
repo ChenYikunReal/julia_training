@@ -11,8 +11,9 @@
 - [Julia官方下载地址](https://julialang.org/downloads/)
 
 ## Julia学习资料
-- 《Julia机器学习核心编程 人人可用的高性能科学计算》
+- 《Julia机器学习核心编程 人人可用的高性能科学计算》`（用这本书要防止自闭，因为错的地方挺多的，超级自闭）`
 - [Julia中文社区](https://discourse.juliacn.com)
+- [Julia中文文档](https://docs.juliacn.com/latest)
 
 ## Julia学习问题描述
 学习这门语言本来是觉得挺有意思的，结果一堆问题：
@@ -23,3 +24,12 @@
 5. ……
 
 太气了，最终决定废掉IDEA插件，使用VScode编辑器，跳过基本语法，只写写可视化部分，然后命令行一行一行敲，就这样。
+
+2020.9.13更新：<br/>
+使用Jupyter，你将远离所有的这些苦恼！Jupyter，yyds！
+
+
+## 关于Vega-Julia代码
+我用Jupyter写Julia代码都跑不了，所以干脆不如写JSON，下面的资料或许有帮助：
+- [样例展示](https://vega.github.io/vega-lite/examples/)
+- [在线编辑运行可视化](https://vega.github.io/editor/#/edited)
