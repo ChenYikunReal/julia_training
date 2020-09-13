@@ -33,3 +33,6 @@
 我用Jupyter写Julia代码都跑不了，所以干脆不如写JSON，下面的资料或许有帮助：
 - [样例展示](https://vega.github.io/vega-lite/examples/)
 - [在线编辑运行可视化](https://vega.github.io/editor/#/edited)
+
+## Julia更改Pkg下载路径
+设置一个环境变量，名为：`JULIA_DEPOT_PATH`，值为：`你需要的路径`。
