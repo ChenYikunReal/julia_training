@@ -9,6 +9,7 @@
 ## Julia下载安装
 - [IDEA插件Julia](https://plugins.jetbrains.com/plugin/10413-julia)
 - [Julia官方下载地址](https://julialang.org/downloads/)
+- [Julia安装配置问题解决](https://lovebear.top/2019/05/13/Julia_Problem/)
 
 ## Julia学习资料
 - 《Julia机器学习核心编程 人人可用的高性能科学计算》`（用这本书要防止自闭，因为错的地方挺多的，超级自闭）`
